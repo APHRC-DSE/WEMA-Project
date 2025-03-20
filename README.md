@@ -14,8 +14,7 @@ Extreme weather events, such as floods, heatwaves, and wildfires, are becoming m
 
 ## Repository Structure
 
-
-├── scripts/ # Python/R scripts for data processing and modeling
+scripts/ # Python/R scripts for data processing and modeling
 
 ## Tools and Technologies
 - Python/R for data analysis
