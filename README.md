@@ -1,7 +1,7 @@
 # WEMA-Project: Impact of Extreme Weather Events on Mental Health of Vulnerable Populations
 
 ## Background
-The **WEMA-Project** (Weather Events and Mental Health Analysis) aims to investigate the impact of extreme weather events on the mental health of vulnerable populations. This project seeks to identify patterns, correlations, and potential interventions to mitigate adverse mental health outcomes caused by climate-related disasters. Extreme weather events, such as floods, heatwaves, and wildfires, are becoming more frequent and intense due to climate change. These events disproportionately affect vulnerable populations, including low-income communities, the elderly, children, and individuals with pre-existing mental health conditions. This project explores the psychological consequences of such events and proposes strategies to build resilience.
+The **WEMA-Project** aims to investigate the impact of extreme weather events on the mental health of vulnerable populations. This project seeks to identify patterns, correlations, and potential interventions to mitigate adverse mental health outcomes caused by climate-related disasters. Extreme weather events, such as floods, heatwaves, and wildfires, are becoming more frequent and intense due to climate change. These events disproportionately affect vulnerable populations, including low-income communities, the elderly, children, and individuals with pre-existing mental health conditions. This project explores the psychological consequences of such events and proposes strategies to build resilience.
 
 ## Objectives
 1. Analyze the relationship between extreme weather events and mental health outcomes.
