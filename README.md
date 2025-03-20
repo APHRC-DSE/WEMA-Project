@@ -9,15 +9,15 @@ The **WEMA-Project** (Weather Events and Mental Health Analysis) aims to investi
 3. Explore existing interventions and propose new strategies to support mental health resilience.
 4. Provide data-driven recommendations for policymakers and healthcare providers.
 
-## Repository Structure
+## Repository structure
 
 scripts/ # Python/R scripts for data processing and modeling
 
-## Tools and Technologies
+## Tools and technologies
 - Python/R for data analysis
 - GIS tools for spatial analysis (if applicable)
 
-## Getting Started
+## Getting started
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/APHRC-DSE/WEMA-Project.git
